@@ -23,6 +23,7 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 ## Description
+NestJs를 활용해 간단한 API를 만들고 연습하기
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
@@ -30,12 +31,15 @@
 
 ```bash
 $ npm install
+# => npm i-g @nestjs/cli
 ```
 
 ## Running the app
 
 ```bash
 # development
+# change nestapi folder
+# => cd nestapi
 $ npm run start
 
 # watch mode
